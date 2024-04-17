@@ -1,0 +1,8 @@
+/* Customize the navbar, cards, and other elements as needed */
+.nav-pills .nav-link.active {
+    background-color: #eee;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
